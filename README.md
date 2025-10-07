@@ -8,3 +8,8 @@
 Cloud : GCP (인스턴스 OS : Debian GNU/Linux 11) 
 Application : Kotlin 2.2.20, Spring Boot 3.5.5, JPA, Querydsl, WebClient, Java 21, Gradle 8.5
 Database : H2
+
+## 플로우 차트
+
+
+## 주요기능
