@@ -16,7 +16,8 @@ Database : H2
 
 
 ### 자동 매도 프로세스
-![My First Board (2)](https://github.com/user-attachments/assets/301694a9-8b15-4760-b4b3-0959b0d5dbb8)
+![My First Board (3)](https://github.com/user-attachments/assets/317588ff-182a-4d00-b9b7-b0ea6eda615a)
+
 
 
 
