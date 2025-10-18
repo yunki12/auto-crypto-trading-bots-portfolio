@@ -15,6 +15,10 @@ Database : H2
 ![My First Board (1)](https://github.com/user-attachments/assets/7a13487a-8061-4623-afa7-88f953894bd4)
 
 
+### 자동 매도 프로세스
+![My First Board (2)](https://github.com/user-attachments/assets/301694a9-8b15-4760-b4b3-0959b0d5dbb8)
+
+
 
 ## 주요기능
 ### 1.매매전략에의한 분할 매수
