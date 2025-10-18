@@ -11,6 +11,10 @@ Database : H2
 
 ## 플로우 차트
 
+### 자동 매수 프로세스
+![My First Board (1)](https://github.com/user-attachments/assets/7a13487a-8061-4623-afa7-88f953894bd4)
+
+
 
 ## 주요기능
 ### 1.매매전략에의한 분할 매수
